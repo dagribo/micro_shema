@@ -129,6 +129,7 @@ void check_edge(int tmp,int i,int j)
 
 void build_graph()
 {
+	//lol what
 	num = 2 * N*N + 2; //делаем список смежности
 	for (int i = 0;i < K;i++)
 	{
